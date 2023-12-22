@@ -1,0 +1,25 @@
+{
+  "name": "star-wars",
+  "version": "0.0.1",
+  "description": "get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orzubek-Rakhimov/star-wars.git"
+  },
+  "keywords": [
+    "starwars"
+  ],
+  "author": "Rakhimov Orzubek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orzubek-Rakhimov/star-wars/issues"
+  },
+  "homepage": "https://github.com/Orzubek-Rakhimov/star-wars#readme",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
+}
